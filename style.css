@@ -71,8 +71,8 @@ header a:hover {
     border-radius: 5px;
 }
 .compare{
-    background-color:#485652;
-    color:white;
+    background-color:#ffffff;
+    color:black;
     height:250px;
     display:flex;
     justify-content: center;
@@ -94,7 +94,7 @@ header a:hover {
 }
 
 .compare tr:nth-child(even) {
-    background-color: rgb(17, 138, 138);
+    background-color: rgb(252, 250, 220);
 }
 
 .compare tr:hover {
